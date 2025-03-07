@@ -75,3 +75,7 @@ The dataset contains customer details such as:
 # Tools & Technologies Used
 
 Excel: Data preprocessing, pivot tables, and initial analysis.
+
+# Conclusion
+
+This project provides actionable insights into the telecom customer churn. By leveraging data-driven strategies, telecom companies can reduce churn, enhance customer satisfaction, and improve profitability. Future work includes predictive modeling and AI-driven churn prevention mechanisms.
